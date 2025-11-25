@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\views\\novochamadowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\views\\novochamadowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\views\\novochamadowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\views\\novochamadowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\views\\cadastrowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\views\\cadastrowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\views\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\views\\editarchamadowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\views\\editarchamadowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\views\\relatoriowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\views\\relatoriowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\views\\telaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\views\\telaprincipal.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\views\\configuracoeswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\views\\configuracoeswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\views\\telaprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\views\\telaprincipal.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\views\\relatoriowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\views\\relatoriowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\views\\chatbotwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\views\\chatbotwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\views\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PORJETOS EM C#\\Pim_04\\Pim_04\\Resources\\DeskProTheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\views\\chatbotwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\views\\chatbotwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\views\\cadastrowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\views\\cadastrowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\views\\editarchamadowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\views\\editarchamadowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\models\\chamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\models\\chamado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\views\\configuracoeswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\views\\configuracoeswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|c:\\users\\samue\\onedrive\\documentos\\pim parte pedro\\pim_04\\pim_04\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC6F8282-2AE5-46C3-81B4-8FE3FA6EB66F}|Pim_04\\Pim_04.csproj|solutionrelative:pim_04\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RelatorioWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\RelatorioWindow.xaml",
+              "RelativeDocumentMoniker": "Pim_04\\Views\\RelatorioWindow.xaml",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\RelatorioWindow.xaml",
+              "RelativeToolTip": "Pim_04\\Views\\RelatorioWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T19:32:16.366Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NovoChamadoWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\NovoChamadoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pim_04\\Views\\NovoChamadoWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\NovoChamadoWindow.xaml.cs",
+              "RelativeToolTip": "Pim_04\\Views\\NovoChamadoWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:35:41.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CadastroWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\CadastroWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pim_04\\Views\\CadastroWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\CadastroWindow.xaml.cs",
+              "RelativeToolTip": "Pim_04\\Views\\CadastroWindow.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAwAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:12:07.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pim_04\\Views\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Pim_04\\Views\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T22:08:21.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\App.config",
+              "RelativeDocumentMoniker": "Pim_04\\App.config",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\App.config",
+              "RelativeToolTip": "Pim_04\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-20T19:39:56.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NovoChamadoWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\NovoChamadoWindow.xaml",
+              "RelativeDocumentMoniker": "Pim_04\\Views\\NovoChamadoWindow.xaml",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\NovoChamadoWindow.xaml",
+              "RelativeToolTip": "Pim_04\\Views\\NovoChamadoWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-13T22:28:27.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditarChamadoWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\EditarChamadoWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pim_04\\Views\\EditarChamadoWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\EditarChamadoWindow.xaml.cs",
+              "RelativeToolTip": "Pim_04\\Views\\EditarChamadoWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T21:13:31.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Pim_04\\Views\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\LoginWindow.xaml",
+              "RelativeToolTip": "Pim_04\\Views\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T22:05:23.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChatbotWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\ChatbotWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pim_04\\Views\\ChatbotWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\ChatbotWindow.xaml.cs",
+              "RelativeToolTip": "Pim_04\\Views\\ChatbotWindow.xaml.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAcwI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:36:57.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Chamado.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Models\\Chamado.cs",
+              "RelativeDocumentMoniker": "Pim_04\\Models\\Chamado.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Models\\Chamado.cs",
+              "RelativeToolTip": "Pim_04\\Models\\Chamado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T18:30:31.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ConfiguracoesWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\ConfiguracoesWindow.xaml",
+              "RelativeDocumentMoniker": "Pim_04\\Views\\ConfiguracoesWindow.xaml",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\ConfiguracoesWindow.xaml",
+              "RelativeToolTip": "Pim_04\\Views\\ConfiguracoesWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-16T19:58:58.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChatbotWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\ChatbotWindow.xaml",
+              "RelativeDocumentMoniker": "Pim_04\\Views\\ChatbotWindow.xaml",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\ChatbotWindow.xaml",
+              "RelativeToolTip": "Pim_04\\Views\\ChatbotWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-20T20:36:26.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RelatorioWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\RelatorioWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pim_04\\Views\\RelatorioWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\RelatorioWindow.xaml.cs",
+              "RelativeToolTip": "Pim_04\\Views\\RelatorioWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T19:32:55.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TelaPrincipal.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\TelaPrincipal.xaml.cs",
+              "RelativeDocumentMoniker": "Pim_04\\Views\\TelaPrincipal.xaml.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\TelaPrincipal.xaml.cs",
+              "RelativeToolTip": "Pim_04\\Views\\TelaPrincipal.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T00:05:38.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfiguracoesWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\ConfiguracoesWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Pim_04\\Views\\ConfiguracoesWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\ConfiguracoesWindow.xaml.cs",
+              "RelativeToolTip": "Pim_04\\Views\\ConfiguracoesWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T19:59:27.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TelaPrincipal.xaml",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\TelaPrincipal.xaml",
+              "RelativeDocumentMoniker": "Pim_04\\Views\\TelaPrincipal.xaml",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\TelaPrincipal.xaml",
+              "RelativeToolTip": "Pim_04\\Views\\TelaPrincipal.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-11T00:05:05.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Pim_04\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\App.xaml.cs",
+              "RelativeToolTip": "Pim_04\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T17:30:14.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\App.xaml",
+              "RelativeDocumentMoniker": "Pim_04\\App.xaml",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\App.xaml",
+              "RelativeToolTip": "Pim_04\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T21:28:29.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CadastroWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\CadastroWindow.xaml",
+              "RelativeDocumentMoniker": "Pim_04\\Views\\CadastroWindow.xaml",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\CadastroWindow.xaml",
+              "RelativeToolTip": "Pim_04\\Views\\CadastroWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-08T22:05:48.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditarChamadoWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\EditarChamadoWindow.xaml",
+              "RelativeDocumentMoniker": "Pim_04\\Views\\EditarChamadoWindow.xaml",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\Views\\EditarChamadoWindow.xaml",
+              "RelativeToolTip": "Pim_04\\Views\\EditarChamadoWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-17T21:13:11.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DeskProTheme.xaml",
+              "DocumentMoniker": "E:\\PORJETOS EM C#\\Pim_04\\Pim_04\\Resources\\DeskProTheme.xaml",
+              "ToolTip": "E:\\PORJETOS EM C#\\Pim_04\\Pim_04\\Resources\\DeskProTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-10T23:53:06.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Pim_04\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\samue\\OneDrive\\Documentos\\Pim parte Pedro\\Pim_04\\Pim_04\\AssemblyInfo.cs",
+              "RelativeToolTip": "Pim_04\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T21:44:29.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+﻿<Window x:Class="Pim_04.Views.ChatbotWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:local="clr-namespace:Pim_04.Views"
+        mc:Ignorable="d"
+        Title="Chatbot de Suporte" Height="400" Width="500">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Área de histórico de conversa -->
+        <ScrollViewer x:Name="ConversationScrollViewer" Grid.Row="0" VerticalScrollBarVisibility="Auto">
+            <StackPanel x:Name="ConversationPanel" />
+        </ScrollViewer>
+
+        <!-- Campo de entrada -->
+        <TextBox x:Name="txtInput" Grid.Row="1" Margin="0,10,0,0" Padding="5">
+            <TextBox.Style>
+                <Style TargetType="TextBox">
+                    <Setter Property="Text" Value="Digite sua pergunta..."/>
+                    <Setter Property="Foreground" Value="Gray"/>
+                    <Style.Triggers>
+                        <Trigger Property="IsKeyboardFocused" Value="True">
+                            <Setter Property="Text" Value=""/>
+                            <Setter Property="Foreground" Value="Black"/>
+                        </Trigger>
+                        <Trigger Property="Text" Value="Digite sua pergunta...">
+                            <Setter Property="Foreground" Value="Gray"/>
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </TextBox.Style>
+        </TextBox>
+
+        <!-- Botão Enviar -->
+        <Button x:Name="btnSend" Grid.Row="2" Content="Enviar" Click="BtnSend_Click" 
+                Margin="0,10,0,0" Padding="10,2" HorizontalAlignment="Right"/>
+    </Grid>
+</Window>

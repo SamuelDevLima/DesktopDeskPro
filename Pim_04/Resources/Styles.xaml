@@ -1,0 +1,102 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+	<!-- Paleta -->
+	<Color x:Key="DeskProGreen">#00C48E</Color>
+	<Color x:Key="DeskProDarkBlue">#0B1C2C</Color>
+	<Color x:Key="DeskProLightGray">#EAF2F5</Color>
+	<Color x:Key="DeskProWhite">#FFFFFF</Color>
+	<Color x:Key="DeskProRed">#FF0000</Color>
+	<!-- Base red -->
+	<Color x:Key="DeskProDarkRed">#CC0000</Color>
+	<!-- Darker red for hover -->
+
+	<SolidColorBrush x:Key="BrushGreen" Color="{StaticResource DeskProGreen}"/>
+	<SolidColorBrush x:Key="BrushDarkBlue" Color="{StaticResource DeskProDarkBlue}"/>
+	<SolidColorBrush x:Key="BrushLightGray" Color="{StaticResource DeskProLightGray}"/>
+	<SolidColorBrush x:Key="BrushWhite" Color="{StaticResource DeskProWhite}"/>
+	<SolidColorBrush x:Key="BrushRed" Color="{StaticResource DeskProRed}"/>
+	<SolidColorBrush x:Key="BrushDarkRed" Color="{StaticResource DeskProDarkRed}"/>
+
+	<!-- TextBlock padrão -->
+	<Style TargetType="TextBlock">
+		<Setter Property="Foreground" Value="{StaticResource BrushWhite}"/>
+		<Setter Property="FontFamily" Value="Segoe UI"/>
+	</Style>
+
+	<!-- TextBox -->
+	<Style TargetType="TextBox">
+		<Setter Property="Background" Value="{StaticResource BrushWhite}"/>
+		<Setter Property="BorderBrush" Value="{StaticResource BrushGreen}"/>
+		<Setter Property="BorderThickness" Value="2"/>
+		<Setter Property="Padding" Value="5"/>
+		<Setter Property="FontSize" Value="14"/>
+		<Setter Property="FontFamily" Value="Segoe UI"/>
+	</Style>
+
+	<!-- Botão primário (definido por chave) -->
+	<Style x:Key="PrimaryButton" TargetType="Button">
+		<Setter Property="FontFamily" Value="Segoe UI Semibold"/>
+		<Setter Property="FontSize" Value="14"/>
+		<Setter Property="Height" Value="40"/>
+		<Setter Property="Cursor" Value="Hand"/>
+		<Setter Property="Background" Value="{StaticResource BrushGreen}"/>
+		<Setter Property="Foreground" Value="{StaticResource BrushWhite}"/>
+		<Setter Property="BorderThickness" Value="0"/>
+		<Setter Property="Template">
+			<Setter.Value>
+				<ControlTemplate TargetType="Button">
+					<Border Background="{TemplateBinding Background}" CornerRadius="6" Padding="6">
+						<ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+					</Border>
+					<ControlTemplate.Triggers>
+						<Trigger Property="IsMouseOver" Value="True">
+							<Setter Property="Background" Value="#00B07E"/>
+							<!-- Green hover -->
+						</Trigger>
+						<Trigger Property="IsPressed" Value="True">
+							<Setter Property="Background" Value="#00976B"/>
+							<!-- Green pressed -->
+						</Trigger>
+					</ControlTemplate.Triggers>
+				</ControlTemplate>
+			</Setter.Value>
+		</Setter>
+	</Style>
+
+	<!-- Aplica o PrimaryButton como estilo padrão para todos os Buttons -->
+	<Style TargetType="Button" BasedOn="{StaticResource PrimaryButton}"/>
+
+	<!-- Botão alternativo (inverso branco) -->
+	<Style x:Key="AltButton" TargetType="Button" BasedOn="{StaticResource PrimaryButton}">
+		<Setter Property="Background" Value="{StaticResource BrushRed}"/>
+		<!-- Base red -->
+		<Setter Property="Foreground" Value="{StaticResource BrushWhite}"/>
+		<!-- White text -->
+		<Setter Property="Template">
+			<Setter.Value>
+				<ControlTemplate TargetType="Button">
+					<Border Background="{TemplateBinding Background}" CornerRadius="6" Padding="6">
+						<ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+					</Border>
+					<ControlTemplate.Triggers>
+						<Trigger Property="IsMouseOver" Value="True">
+							<Setter Property="Background" Value="{StaticResource BrushDarkRed}"/>
+							<!-- Darker red on hover -->
+						</Trigger>
+						<!-- No pressed state defined unless requested -->
+					</ControlTemplate.Triggers>
+				</ControlTemplate>
+			</Setter.Value>
+		</Setter>
+	</Style>
+
+	<!-- Card (Border) -->
+	<Style x:Key="Card" TargetType="Border">
+		<Setter Property="Background" Value="{StaticResource BrushDarkBlue}"/>
+		<Setter Property="CornerRadius" Value="10"/>
+		<Setter Property="Padding" Value="20"/>
+		<Setter Property="Margin" Value="10"/>
+	</Style>
+
+</ResourceDictionary>

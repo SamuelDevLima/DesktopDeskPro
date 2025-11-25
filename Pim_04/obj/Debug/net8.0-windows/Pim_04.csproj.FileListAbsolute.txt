@@ -1,0 +1,249 @@
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.csproj.AssemblyReference.cache
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Resources\Styles.baml
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\CadastroWindow.baml
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\ConfiguracoesWindow.baml
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\EditarChamadoWindow.baml
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\NovoChamadoWindow.baml
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\RelatorioWindow.baml
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\TelaPrincipal.baml
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\App.baml
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\CadastroWindow.g.cs
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\ChatbotWindow.g.cs
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\ConfiguracoesWindow.g.cs
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\EditarChamadoWindow.g.cs
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\NovoChamadoWindow.g.cs
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\RelatorioWindow.g.cs
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\TelaPrincipal.g.cs
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\App.g.cs
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04_MarkupCompile.cache
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04_MarkupCompile.lref
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Pim_04.exe
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Pim_04.dll.config
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Pim_04.deps.json
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Pim_04.runtimeconfig.json
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Pim_04.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Pim_04.pdb
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Azure.Core.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Azure.Identity.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Dynamitey.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\ExtendedWPFConverters.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\ExtendedWPFVisualTreeHelper.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Humanizer.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Json.More.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\JsonPointer.Net.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\JsonSchema.Net.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\JsonSchema.Net.Generation.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.AddOns.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Http.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\Mscc.GenerativeAI.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.ClientModel.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Memory.Data.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Text.Json.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\ChatbotWindow.baml
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.g.resources
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.GeneratedMSBuildEditorConfig.editorconfig
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.AssemblyInfoInputs.cache
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.AssemblyInfo.cs
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.csproj.CoreCompileInputs.cache
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.csproj.Up2Date
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\refint\Pim_04.dll
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.pdb
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.genruntimeconfig.cache
+E:\PORJETOS EM C#\Pim_04\Pim_04\obj\Debug\net8.0-windows\ref\Pim_04.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Resources\Styles.baml
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Resources\Theme.baml
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\CadastroWindow.baml
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\ConfiguracoesWindow.baml
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\EditarChamadoWindow.baml
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\LoginWindow.baml
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\NovoChamadoWindow.baml
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\RelatorioWindow.baml
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\TelaPrincipal.baml
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\App.baml
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\CadastroWindow.g.cs
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\ChatbotWindow.g.cs
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\ConfiguracoesWindow.g.cs
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\EditarChamadoWindow.g.cs
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\LoginWindow.g.cs
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\NovoChamadoWindow.g.cs
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\RelatorioWindow.g.cs
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\TelaPrincipal.g.cs
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04_MarkupCompile.cache
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04_MarkupCompile.lref
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Pim_04.exe
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Pim_04.dll.config
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Pim_04.deps.json
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Pim_04.runtimeconfig.json
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Pim_04.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Pim_04.pdb
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\BCrypt.Net-Next.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Dynamitey.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\ExtendedWPFConverters.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\ExtendedWPFVisualTreeHelper.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Json.More.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\JsonPointer.Net.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\JsonSchema.Net.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\JsonSchema.Net.Generation.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\MaterialDesignColors.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Http.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\Mscc.GenerativeAI.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Drawing.Common.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Private.Windows.Core.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Views\ChatbotWindow.baml
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.g.resources
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.csproj.Up2Date
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\refint\Pim_04.dll
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.pdb
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\Pim_04.genruntimeconfig.cache
+C:\Users\samue\OneDrive\Documentos\Pim_VOriginal\Pim_04\Pim_04\obj\Debug\net8.0-windows\ref\Pim_04.dll

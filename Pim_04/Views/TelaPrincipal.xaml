@@ -1,0 +1,221 @@
+﻿<Window x:Class="Pim_04.Views.TelaPrincipal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="DeskPro - Painel Principal" Height="600" Width="1000"
+        WindowState="Maximized"
+        Background="#F1F7F9"
+        ResizeMode="CanResize" MinWidth="800" MinHeight="500">
+
+    <Window.Resources>
+
+        <!-- 🎨 PALETA VISUAL -->
+        <SolidColorBrush x:Key="DeskProGreen" Color="#00C896"/>
+        <SolidColorBrush x:Key="DeskProDark" Color="#1A2635"/>
+        <SolidColorBrush x:Key="DeskProAccent" Color="#0AA077"/>
+        <SolidColorBrush x:Key="DeskProBackground" Color="#F1F7F9"/>
+        <SolidColorBrush x:Key="DeskProTextDark" Color="#092A2E"/>
+        <SolidColorBrush x:Key="DeskProMuted" Color="#6B7B86"/>
+
+        <!-- Botão com bordas arredondadas -->
+        <Style x:Key="RoundedButton" TargetType="Button">
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="Background" Value="{StaticResource DeskProGreen}"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="FontFamily" Value="Poppins"/>
+            <Setter Property="Height" Value="35"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="8">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="{StaticResource DeskProAccent}"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Campo de texto arredondado -->
+        <Style x:Key="RoundedTextBox" TargetType="TextBox">
+            <Setter Property="Background" Value="#EAF3F3"/>
+            <Setter Property="Foreground" Value="{StaticResource DeskProTextDark}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource DeskProGreen}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="10,5"/>
+            <Setter Property="FontSize" Value="18"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}"
+                                CornerRadius="8">
+                            <ScrollViewer x:Name="PART_ContentHost"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Sidebar -->
+        <Style x:Key="SidebarButton" TargetType="Button" BasedOn="{StaticResource RoundedButton}">
+            <Setter Property="Width" Value="150"/>
+            <Setter Property="Margin" Value="0,5"/>
+        </Style>
+
+        <Style x:Key="CardStyle" TargetType="Border">
+            <Setter Property="Background" Value="White"/>
+            <Setter Property="CornerRadius" Value="12"/>
+            <Setter Property="Padding" Value="15"/>
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect Color="#092A2E" BlurRadius="10" ShadowDepth="3" Opacity="0.1"/>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="HeaderStyle" TargetType="DataGridColumnHeader">
+            <Setter Property="Background" Value="{StaticResource DeskProGreen}"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="Padding" Value="6"/>
+        </Style>
+
+        <Style x:Key="CellStyle" TargetType="DataGridCell">
+            <Setter Property="Background" Value="#F8FAFB"/>
+            <Setter Property="Foreground" Value="{StaticResource DeskProTextDark}"/>
+            <Setter Property="BorderBrush" Value="#E0E0E0"/>
+            <Setter Property="BorderThickness" Value="0,0,1,1"/>
+        </Style>
+
+    </Window.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="230"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Sidebar -->
+            <Border Grid.Column="0" Background="{StaticResource DeskProDark}" Padding="10" Margin="0,0,10,0">
+                <StackPanel>
+                    <TextBlock Text="DeskPro"
+                               FontSize="24" FontWeight="Bold"
+                               Foreground="White"
+                               HorizontalAlignment="Center"
+                               Margin="0,20,0,30"/>
+
+                    <Button x:Name="btnNovoChamado" Click="BtnNovoChamado_Click" Style="{StaticResource SidebarButton}">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                            <materialDesign:PackIcon Kind="Plus" Margin="5,0,3,0"/>
+                            <TextBlock Text="Novo Chamado" Foreground="White"/>
+                        </StackPanel>
+                    </Button>
+
+                    <Button x:Name="btnMeusChamados" Click="BtnMeusChamados_Click" Style="{StaticResource SidebarButton}">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                            <materialDesign:PackIcon Kind="FormatListBulleted" Margin="5,0,3,0"/>
+                            <TextBlock Text="Meus Chamados" Foreground="White"/>
+                        </StackPanel>
+                    </Button>
+
+                    <!-- ✅ Botão "Todos Chamados" reaparecendo -->
+                    <Button x:Name="btnTodosChamados" Click="BtnTodosChamados_Click"
+                            Style="{StaticResource SidebarButton}"
+                            Width="150"
+                            Cursor="Hand">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                            <materialDesign:PackIcon Kind="ViewList" Margin="5,0,3,0"/>
+                            <TextBlock Text="Todos Chamados" Foreground="White"/>
+                        </StackPanel>
+                    </Button>
+
+                    <Button x:Name="btnRelatorios" Click="BtnRelatorios_Click" Style="{StaticResource SidebarButton}">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                            <materialDesign:PackIcon Kind="ChartBar" Margin="5,0,3,0"/>
+                            <TextBlock Text="Relatórios" Foreground="White"/>
+                        </StackPanel>
+                    </Button>
+
+                    
+
+                    <Button x:Name="btnConfiguracoes" Click="BtnConfiguracoes_Click" Style="{StaticResource SidebarButton}">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                            <materialDesign:PackIcon Kind="Settings" Margin="5,0,3,0"/>
+                            <TextBlock Text="Configurações" Foreground="White"/>
+                        </StackPanel>
+                    </Button>
+
+                    <Button x:Name="btnSair" Click="BtnSair_Click"
+                            Style="{StaticResource RoundedButton}"
+                            Background="#E53935" Margin="0,30,0,0">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                            <materialDesign:PackIcon Kind="ExitToApp" Margin="0,2,5,0"/>
+                            <TextBlock Text="Sair" Foreground="White"/>
+                        </StackPanel>
+                    </Button>
+                </StackPanel>
+            </Border>
+
+            <!-- Conteúdo principal -->
+            <Border Grid.Column="1" Style="{StaticResource CardStyle}" Margin="10,20,20,20">
+                <StackPanel>
+                    <TextBlock Text="DeskPro"
+                               FontSize="28" FontWeight="Bold"
+                               Foreground="{StaticResource DeskProDark}"
+                               Margin="10,0,0,25"/>
+
+                    <!-- Barra de busca -->
+                    <DockPanel Margin="0,0,0,20" HorizontalAlignment="Center">
+                        <TextBox x:Name="txtBuscar" Width="350" Height="36"
+                                 Style="{StaticResource RoundedTextBox}"
+                                 KeyDown="TxtBuscar_KeyDown"/>
+                        <Button x:Name="btnBuscar" Click="BtnBuscar_Click"
+                                Width="40" Height="36"
+                                Style="{StaticResource RoundedButton}"
+                                Margin="5,0,0,0">
+                            <materialDesign:PackIcon Kind="Magnify" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Button>
+                    </DockPanel>
+
+                    <!-- DataGrid -->
+                    <DataGrid x:Name="dgChamados"
+                              AutoGenerateColumns="False"
+                              Margin="0,0,0,20"
+                              CanUserAddRows="False"
+                              CanUserDeleteRows="False"
+                              ColumnHeaderStyle="{StaticResource HeaderStyle}"
+                              CellStyle="{StaticResource CellStyle}"
+                              Background="White"
+                              Foreground="{StaticResource DeskProTextDark}"
+                              BorderBrush="#E0E0E0"
+                              BorderThickness="1"
+                              RowBackground="#FFFFFF"
+                              AlternatingRowBackground="#F7F9F9">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="50"/>
+                            <DataGridTextColumn Header="Título" Binding="{Binding Titulo}" Width="*"/>
+                            <DataGridTextColumn Header="Descrição" Binding="{Binding Descricao}" Width="2*"/>
+                            <DataGridTextColumn Header="Status" Binding="{Binding Status}" Width="*"/>
+                            <DataGridTextColumn Header="Data Criação" Binding="{Binding DataCriacao, StringFormat={}{0:dd/MM/yyyy HH:mm}}" Width="*"/>
+                            <DataGridTextColumn Header="Usuário ID" Binding="{Binding UsuarioId}" Width="*"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </StackPanel>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

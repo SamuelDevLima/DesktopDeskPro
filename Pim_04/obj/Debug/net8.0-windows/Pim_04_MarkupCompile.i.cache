@@ -1,0 +1,20 @@
+﻿Pim_04
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\samue\OneDrive\Documentos\Pim parte Pedro\Pim_04\Pim_04\obj\Debug\net8.0-windows\
+Pim_04
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\samue\OneDrive\Documentos\Pim parte Pedro\Pim_04\Pim_04\App.xaml
+10-2127753297
+
+141815570254
+245952171303
+Resources\Styles.xaml;Resources\Theme.xaml;Views\CadastroWindow.xaml;Views\ChatbotWindow.xaml;Views\ConfiguracoesWindow.xaml;Views\EditarChamadoWindow.xaml;Views\LoginWindow.xaml;Views\NovoChamadoWindow.xaml;Views\RelatorioWindow.xaml;Views\TelaPrincipal.xaml;
+
+False
+
